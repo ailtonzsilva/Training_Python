@@ -8,6 +8,8 @@
 
 [colab](https://colab.research.google.com/)
 
+[Instalando o Jupyter - Pacote Anaconda para Programação em Python](https://www.youtube.com/watch?v=_eK0z5QbpKA)
+
 []()
 
 
@@ -16,5 +18,11 @@
 [Como Estudar do Jeito Certo e Aprender Melhor!](https://youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s)
 
 [Python Tutorial](https://www.w3schools.com/python/default.asp)
+
+[Python Full Course for free](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+
+[realpython](https://realpython.com/)
+
+[]()
 
 []()
