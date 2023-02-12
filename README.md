@@ -4,6 +4,8 @@
 
 [Curso de Python](https://youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
 
+[Web Scrapping com python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3K2IUFOEF0YG6T9fEJwqhJo)
+
 ## Ambiente de testes 
 
 [colab](https://colab.research.google.com/)
