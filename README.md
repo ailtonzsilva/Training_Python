@@ -2,6 +2,8 @@
 
 ## Treinamento
 
+[Git e Github para Iniciantes](https://loiane.com/2013/11/screencast-git-e-github-para-iniciantes/)
+
 [Como Estudar do Jeito Certo e Aprender Melhor!](https://youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s)
 
 [Curso de Python](https://youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
