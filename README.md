@@ -2,6 +2,8 @@
 
 ## Treinamento
 
+[Como Estudar do Jeito Certo e Aprender Melhor!](https://youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s)
+
 [Curso de Python](https://youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
 
 [Introdução ao Python](https://youtube.com/playlist?list=PLpdAy0tYrnKznoeLzn06M-izJJpoEyzHC)
@@ -38,7 +40,7 @@
 
 ## Tutoriais
 
-[Como Estudar do Jeito Certo e Aprender Melhor!](https://youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s)
+[dotnetperls](https://www.dotnetperls.com/s#python)
 
 [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
