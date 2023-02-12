@@ -4,9 +4,22 @@
 
 [Curso de Python](https://youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
 
+[Introdução ao Python](https://youtube.com/playlist?list=PLpdAy0tYrnKznoeLzn06M-izJJpoEyzHC)
+
 [Web Scrapping com python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3K2IUFOEF0YG6T9fEJwqhJo)
 
 [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao/playlists)
+
+[Exercícios de Python 3](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+
+[Curso de Python 3 - Mundo 1: Fundamentos](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+
+[Curso de Python 3 - Mundo 2: Estruturas de Controle](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+
+[Curso de Python 3 - Mundo 3: Estruturas Compostas](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+
+[Introdução à Programação para Bioinformática com Python](https://www.udemy.com/course/python_para_bioinformatica/)
+
 
 #python #hashtagprogramacao
 
@@ -28,6 +41,12 @@
 [Como Estudar do Jeito Certo e Aprender Melhor!](https://youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s)
 
 [Python Tutorial](https://www.w3schools.com/python/default.asp)
+
+[Phyton](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/playlists)
+
+[Apoio do livro](https://nostarch.com/automatestuff )
+
+[Apoio do livro - Topics](https://nostarch.com/automatestuffresources)
 
 [Python Full Course for free](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
